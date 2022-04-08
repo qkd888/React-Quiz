@@ -20,6 +20,7 @@
   justify-content: center; /*Aligning the flex items vertically*/
   align-items: center; /*Aligning the flex items horizontally*/
   padding: 1rem;
+  background: rgb(218, 208, 208);
 }
 
 .selected {
